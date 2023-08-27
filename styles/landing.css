@@ -1,0 +1,19 @@
+.list-item-container{
+    border-radius: 20px;
+    background-color:gray;
+    height: 250px;
+    border: 5px solid #000;
+    overflow: scroll;
+}
+.news-list{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 1em;
+    align-items: center;
+}
+
+.container-grid{
+    background-color: gray;
+    height: 100%;
+}
